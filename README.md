@@ -1,7 +1,7 @@
 # Challenge 1 - Izzwan
 
 ## Description
-This script generates an array of numbers from 1 to 100 to separate the prime numbers with Big or Bang or BigBang
+This script generates an array of numbers from 1 to 100 to separate the prime numbers with Big or Bang or BigBang.
 
 ## How to Run
 1. Make sure you have Node.js installed.
