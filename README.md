@@ -5,9 +5,9 @@ This script generates an array of numbers from 1 to 100 to separate the prime nu
 
 ## How to Run
 1. Make sure you have Node.js installed.
-2. Clone the repository: `git clone https://github.com/yourusername/challenge1_izzwan.git`
+2. Clone the repository: `git clone https://github.com/Wan1-ry/challenge1_izzwan.git`
 3. Navigate to the project folder: `cd challenge1_izzwan`
-4. Run the script: `node index.js`
+4. Run the script: `node challenge1_izzwan.js`
 
 ## License
 MIT
