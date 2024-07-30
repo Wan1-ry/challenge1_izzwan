@@ -5,7 +5,7 @@ function challenge1_izzwan() {
 
     for (let i = 1; i <= 100; i++) {
         if (i % 3 === 0 && i % 5 === 0) {
-            result.push("BIG BANG");
+            result.push("BIGBANG");
         } else if (i % 3 === 0) {
             result.push("BIG");
         } else if (i % 5 === 0) {
